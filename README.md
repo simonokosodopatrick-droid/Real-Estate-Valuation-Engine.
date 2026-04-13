@@ -5,6 +5,15 @@ EXECUTIVE SUMMARY The Business Problem: Traditional property appraisals are slow
 
 THE MASTER STRATEGY: 20-PHASE INDUSTRIAL WORKFLOW I engineered a rigorous 20-phase analytics lifecycle, initiating with intensive Data Cleaning, Integrity & Standardization to enforce structural consistency through automated type-resetting and threshold filtering. The architecture advanced into Multi-Dimensional Feature Mining, where I synthesized high-resolution signals—ranging from Automated Proportionality Ratios and Quadratic Non-Linear Curves to the manual anchoring of domain-specific features—alongside machine-driven Deep Feature Synthesis (DFS) using Featuretools to uncover hidden interaction signals. This was followed by an Extreme Outlier Investigation and Magnitude Tail-Clipping stage to neutralize noise and handle statistical anomalies. The workflow concluded with high-stakes Models Competitions and a Tournament for head-to-head comparison, finalized by a Model Integrity and Real-World Reliability Audit via a "Command Centre" stress-test to certify 100% stability, logic, and fairness.
 
+### 📊 Strategic Visualizations
+
+**Feature Signal Hierarchy**
+![Feature Importance](visuals/feature_importance.png)
+
+**Model Integrity & Residual Analysis**
+![Residual Analysis](visuals/residual_analysis.png)
+
+
 MODEL RESULTS (BUSINESS METRICS) Confidence Score (R-squared) - 0.7781, High Precision Average Error (MAE) - $78,877, Reliable Benchmark Accuracy Barometer (MAPE) - 15.89%, Proportional Stability Integrity Certification ELITE STATUS, Production Ready Logic Check: The model explains 77.8% of the variability in King County prices. Commercial Accuracy: Predictions are typically within ±15.89% of actual market value, outperforming traditional heuristic-based appraisals.
 
 TECH STACK & DATA SCOPE Languages & Processing: Python | Pandas | NumPy ML Libraries: Scikit-Learn | XGBoost | CatBoost | LightGBM Engineering: Featuretools (Automated Mining) | Category Encoders (Target Encoding) Dataset: King County Housing Data (4,600 Records | 18 Base Features | 100+ Synthetic Interactions)
