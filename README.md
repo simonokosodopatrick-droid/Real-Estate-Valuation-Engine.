@@ -32,17 +32,14 @@ This 20-Phase Industrial Workflow ensures technical excellence through five crit
 **Hardened Data Standardization:** Automated type enforcement and threshold-based filtering to secure the statistical foundation.
 
 **Multi-Dimensional Synthesis:** Leveraging proportionality ratios and Deep Feature Synthesis (DFS) to map high-fidelity market interactions.
-
 <img width="1080" height="529" alt="top_features_chart" src="https://github.com/user-attachments/assets/a400f5ba-5a09-49a4-b71d-b232dbcdd55b" />
 
 
 **Autonomous Integrity Auditing:** Total "Eclipse" Ablation testing to prove the model understands physical house logic without relying on government tax "cheat codes."
-
 <img width="1616" height="826" alt="ablation_chart" src="https://github.com/user-attachments/assets/9f7a7b78-3f81-4c9a-a2a0-01e7e7c062e5" />
 
 
 **Algorithm Audition:** A head-to-head tournament of top-tier Gradient Boosting models (XGBoost, CatBoost, LightGBM, HistGBM).
-
 <img width="816" height="698" alt="final_result_Screenshot" src="https://github.com/user-attachments/assets/f9ea31fa-2c05-4025-99db-db02f5bf73b6" />
 
 
