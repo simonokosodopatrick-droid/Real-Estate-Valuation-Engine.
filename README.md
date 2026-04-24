@@ -40,7 +40,8 @@ This 20-Phase Industrial Workflow ensures technical excellence through five crit
 
 
 **Algorithm Audition:** A head-to-head tournament of top-tier Gradient Boosting models (XGBoost, CatBoost, LightGBM, HistGBM).
-<img width="816" height="698" alt="final_result_Screenshot" src="https://github.com/user-attachments/assets/f9ea31fa-2c05-4025-99db-db02f5bf73b6" />
+<img width="2272" height="1131" alt="result_board" src="https://github.com/user-attachments/assets/92e95a68-7ea3-4831-bf14-f73949d4ef77" />
+
 
 
 **Auto-Configured Pipelines:** Intelligent self-selection of Median Imputation and Log-Transformed math based on data skewness.
